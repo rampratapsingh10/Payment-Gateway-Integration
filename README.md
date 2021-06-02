@@ -4,4 +4,4 @@ This is basically a donation website, where a user can give a donation to the or
 After the payment successful, a mail will be received by the users mail address.
 
 live on
-https://github.com/rampratapsingh-1441/Payment Gateway Integration
+https://github.com/rampratapsingh10/Payment Gateway Integration
