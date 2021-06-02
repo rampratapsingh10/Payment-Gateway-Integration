@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+.content{
+  margin-top: 0px;
+  width: 100%;
+  height: 600px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)),url(../img/s.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 500%;
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+}
+h3{
+  font-size: 250%;
+  text-align: center;
+  color: white;
+  font-family: 'Cabin', sans-serif;
+}
+.donate{
+  margin-top: 45px;
+  text-align: center;
+}
+.logo1{
+  width: 100px;
+}
+.logo2{
+  width: 400px;
+}
+.logo3{
+  width: 500px;
+}
+
+.contact{
+  background-color: #d6d2c4;
+}
+
+h2{
+  font-family: 'Heebo', sans-serif;
+  font-size: 400%;
+  color: black;
+  margin-left: 30px;
+}
+h5{
+  color: white;
+  font-family:'Heebo', sans-serif;
+  text-align: center;
+  padding-top: 20px;
+}
+p{
+  margin-left: 0px;
+  color: white;
+  font-family: 'Crete Round', serif;
+  font-family: 'Heebo', sans-serif;
+text-align: center;
+}
+footer{
+  background-color: green;
+  padding: 2px 0;
+font-size: 26px;
+}
+footer ul{
+  text-align: center;
+  padding-top: 10px;
+}
+footer li{
+  display: inline-block;
+}
+.fa {
+  padding: 20px;
+  
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook-f {
+  
+  color: white;
+}
+
+.fa-twitter {
+  
+  color: white;
+}
+.fa-instagram {
+  
+  color: white;
+}
+.fa-linkedin {
+  
+  color: white;
+}
